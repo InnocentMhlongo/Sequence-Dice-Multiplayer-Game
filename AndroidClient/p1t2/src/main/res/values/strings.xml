@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">P1T2</string>
+    <string name="game_name">Sequence-Dice Game</string>
+    <string name="lbl_play">Start game</string>
+    <string name="lblLeaderboard">Leaderboard</string>
+    <string name="lblPlay">Play</string>
+    <string name="lblGameRules">Game rules</string>
+    <string name="homeButton">Home</string>
+</resources>
